@@ -8,7 +8,7 @@ For example, many ISPs in the Philippines use CGNAT which makes it difficult to 
 
 To that end, I have created a VPN specifically for the Melee community in the Philippines using cloud compute.
 With the caveat that I'm a professional software developer, I can say it was not terribly difficult to get up and running, even starting from minimal experience with VPN software, server administration, and even cloud providers.
-It should be low maintenance and cost around $10/month.
+It is low maintenance and cost around $6.50/month at peak usage.
 In case anyone is interested in doing the same for another region, I will elaborate on the setup:
 
 ## Cloud Provider
@@ -41,7 +41,7 @@ If you have any suggestions, please get in touch!
 No users have reported still being unable to connect to other players while using the VPN.
 Additionally some players report a dramatic decrease in ping, in one case down from 60-70ms to 10ms when connecting to other players in the Philippines.
 The server can have at least 254 users configured and should be able to support dozens of simultaneous clients.
-Again, this is expected to cost $10 per month.
+Again, it cost $6.50 per month at peak usage.
 
 ## Config Samples
 I consulted various guides on setting up Wireguard that you can find by Googling.
