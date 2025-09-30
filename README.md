@@ -1,4 +1,7 @@
 # Community VPN for Slippi
+> [!WARNING]
+> I do not provide tech support for setting up your own community VPN.
+> Please find and closely follow an online guide to setting up wireguard server/clients.
 
 Many Slippi players have consistent problems connecting to other players.
 They are often caused by routing or traversal issues outside of the players' control, often at the ISP level.
